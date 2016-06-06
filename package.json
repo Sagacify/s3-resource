@@ -1,6 +1,6 @@
 {
   "name": "s3-resource",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A bridge to AWS S3 service with proper logging and promisifying.",
   "main": "dist/index.js",
   "scripts": {
